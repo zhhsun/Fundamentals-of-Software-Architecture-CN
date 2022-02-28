@@ -1,4 +1,6 @@
-# 软件架构基础(Fundamentals of Software Architecture By Mark Richards, Neal Ford)
+# 软件架构基础
+
+# (Fundamentals of Software Architecture By Mark Richards, Neal Ford)
 
 [第一章 介绍](./ch01/ch01.md)
 
